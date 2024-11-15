@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:trip_budgeter_2410/connection/firebase_connection.dart';
 import 'package:trip_budgeter_2410/view/home/home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:trip_budgeter_2410/view/welcome.dart';
 
 import 'models/user_info_provider.dart';
 
@@ -35,7 +36,7 @@ class MyApp extends StatelessWidget {
         ),
         primaryColor: const Color(0xFF666666), // Màu chính cho theme
       ),
-      home: const HomePage(),
+      home: const WelcomePage(),
       debugShowCheckedModeBanner: false,
     );
   }
