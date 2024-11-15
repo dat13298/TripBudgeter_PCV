@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:trip_budgeter_2410/views/sign_in.dart';
-import 'package:trip_budgeter_2410/views/sign_up/full_name_form.dart';
+import 'package:trip_budgeter_2410/view/sign_in.dart';
+import 'package:trip_budgeter_2410/view/sign_up/full_name_form.dart';
 
 
 class WelcomePage extends StatefulWidget {

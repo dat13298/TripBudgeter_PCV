@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:trip_budgeter_2410/views/home/profile_tab.dart';
+import 'package:trip_budgeter_2410/view/home/profile_tab.dart';
 
 import 'about_us_tab.dart';
 import 'home_tab.dart';

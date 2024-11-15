@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:trip_budgeter_2410/main.dart';
 import 'package:trip_budgeter_2410/models/user_info_provider.dart';
-import 'package:trip_budgeter_2410/views/sign_up/gender_DoB_form.dart';
+
+import 'gender_DoB_form.dart';
 
 class PhoneForm extends StatefulWidget {
   const PhoneForm({super.key});

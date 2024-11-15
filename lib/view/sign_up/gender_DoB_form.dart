@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:trip_budgeter_2410/models/user_info_provider.dart';
-import 'package:trip_budgeter_2410/views/sign_up/password_form.dart';
+import 'package:trip_budgeter_2410/view/sign_up/password_form.dart';
 
 import '../../models/e_gender.dart';
 

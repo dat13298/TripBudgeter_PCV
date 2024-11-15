@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:trip_budgeter_2410/main.dart';
 import 'package:trip_budgeter_2410/models/user_info_provider.dart';
-import 'package:trip_budgeter_2410/views/sign_up/phone_form.dart';
+import 'package:trip_budgeter_2410/view/sign_up/phone_form.dart';
 
 class EmailForm extends StatefulWidget {
   const EmailForm({super.key});

@@ -1,8 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';
 import 'package:trip_budgeter_2410/connection/firebase_connection.dart';
-import 'package:trip_budgeter_2410/views/home/home_page.dart';
-import 'package:trip_budgeter_2410/views/welcome.dart';
+import 'package:trip_budgeter_2410/view/home/home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import 'models/user_info_provider.dart';

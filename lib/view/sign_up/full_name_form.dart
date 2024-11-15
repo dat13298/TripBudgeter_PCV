@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:trip_budgeter_2410/main.dart';
 import 'package:trip_budgeter_2410/models/user_info_provider.dart';
-import 'package:trip_budgeter_2410/views/sign_up/email_form.dart';
+
+import 'email_form.dart';
 
 class FullNameForm extends StatefulWidget {
   const FullNameForm({super.key});
